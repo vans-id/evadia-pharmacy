@@ -1,0 +1,9 @@
+voltaren;6500;488;
+masker;17000;200;
+panadol;2000;198;
+everon c;24000;47;
+detol;8000;150;
+zevit grow;10000;50;
+Hand Sanitizer;20000;50;
+alkohol;18000;9;
+koyo;6000;10;
